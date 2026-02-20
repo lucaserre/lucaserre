@@ -1,4 +1,5 @@
-<img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/027483c0-19be-4dc1-8072-6fd1aa2241e2" />
+<img width="1029" height="142" alt="image" src="https://github.com/user-attachments/assets/85190fb8-2b5a-450d-b750-103862900590" />
+
 
 </p>
 
@@ -19,7 +20,4 @@ Atualmente, dedico meu tempo a resolver problemas reais através de código e a 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=08FCE8" />
 </p>
 
-###  Estatísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaserre&layout=compact&theme=dark&bg_color=0D1117&text_color=C9D1D9&title_color=08FCE8&hide_border=true" alt="Linguagens mais usadas" />
-</p>
+
