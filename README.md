@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá, eu sou o Lucas! 
 
-<!--
-**lucaserre/lucaserre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência da Computação (4º período) em Petrópolis - RJ, focando minha carreira em **Cibersegurança (Blue Team)** e **Engenharia de Automação**. 
 
-Here are some ideas to get you started:
+Atualmente, dedico meu tempo a resolver problemas reais através de código e a entender os fundamentos de sistemas, redes e análise de malware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  O que estou construindo no momento:
+*  **Imersão Python 60 Dias:** Um desafio pessoal documentando scripts diários, do básico à engenharia de software avançada.
+*  **Detecção de Malware com Matemática:** Construindo um script do zero para calcular a Entropia de Shannon em binários para identificar código ofuscado/packed.
+*  **Automação de Rotinas:** Desenvolvedor de um bot de cobrança assíncrono para WhatsApp com lógica anti-ban integrada ao Google Sheets.
+
+###  Minhas Ferramentas e Foco:
+* **Linguagem Principal:** Python 
+* **Segurança:** Análise de tráfego, Redes (Cisco Packet Tracer), fundamentos de Blue Team e Kali Linux.
+* **Ferramentas:** Git, Bash/Shell Scripting, Matplotlib (Data Viz).
+
+ **Me encontre:** https://www.linkedin.com/in/lucasrabeloalmeida/
