@@ -1,8 +1,5 @@
-<img width="916" height="454" alt="image" src="https://github.com/user-attachments/assets/b975d2dc-7eba-459c-99e6-88e23c61cba2" /><p align="left">
-   <img width="916" height="454" alt="image" src="https://github.com/user-attachments/assets/79e741fd-559d-47b2-992c-ae07955ce9af" />
+<img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/027483c0-19be-4dc1-8072-6fd1aa2241e2" />
 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=08FCE8&background=0D111700&center=false&vCenter=true&width=600&lines=>_ Estudante+de+Cibersegurança;>_ Desenvolvedor+Python;>_ Blue+Team+em+formação..." alt="Typing SVG" />
-  </a>
 </p>
 
 Sou estudante de Ciência da Computação (4º período) em Petrópolis - RJ, focando minha carreira em **Cibersegurança (Blue Team)** e **Engenharia de Automação**. 
