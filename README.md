@@ -1,4 +1,8 @@
-## Olá, eu sou o Lucas! 
+<p align="left">
+  <a href="https://github.com/lucaserre">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=08FCE8&background=0D111700&center=false&vCenter=true&width=600&lines=>_ Estudante+de+Cibersegurança;>_ Desenvolvedor+Python;>_ Blue+Team+em+formação..." alt="Typing SVG" />
+  </a>
+</p>
 
 Sou estudante de Ciência da Computação (4º período) em Petrópolis - RJ, focando minha carreira em **Cibersegurança (Blue Team)** e **Engenharia de Automação**. 
 
@@ -10,23 +14,14 @@ Atualmente, dedico meu tempo a resolver problemas reais através de código e a 
 *  **Automação de Rotinas:** Desenvolvedor de um bot de cobrança assíncrono para WhatsApp com lógica anti-ban integrada ao Google Sheets.
 
 ###  Minhas Ferramentas e Foco:
-* **Linguagem Principal:** Python 
-* **Segurança:** Análise de tráfego, Redes (Cisco Packet Tracer), fundamentos de Blue Team e Kali Linux.
-* **Ferramentas:** Git, Bash/Shell Scripting, Matplotlib (Data Viz).
-
- **Me encontre:** https://www.linkedin.com/in/lucasrabeloalmeida/
-
-###  Minhas Ferramentas e Foco:
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=08FCE8" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=08FCE8" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=08FCE8" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=08FCE8" />
 </p>
-
 
 ###  Estatísticas
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaserre&layout=compact&theme=dark&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaserre&layout=compact&theme=dark&bg_color=0D1117&text_color=C9D1D9&title_color=08FCE8&hide_border=true" alt="Linguagens mais usadas" />
 </p>
