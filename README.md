@@ -24,3 +24,9 @@ Atualmente, dedico meu tempo a resolver problemas reais através de código e a 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
+
+###  Estatísticas
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaserre&layout=compact&theme=dark&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&hide_border=true" />
+</p>
